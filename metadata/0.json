@@ -1,11 +1,15 @@
 {
-    "description": "Infinity Hash Batch 0",
+    "description": "Infinity Hash Farm 1",
     "image": "https://github.com/infinityhash/assets/blob/main/ih-coin-v1.gif",
     "name": "Infinity Hash",
     "attributes": [
       {
-        "trait_type": "Batch",
+        "trait_type": "BatchId",
         "value": "0"
+      },
+      {
+        "trait_type": "Farm",
+        "value": "1"
       }
     ]
 }
