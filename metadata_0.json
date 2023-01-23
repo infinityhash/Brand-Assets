@@ -1,0 +1,11 @@
+{
+    "description": "Infinity Hash Batch 0",
+    "image": "https://github.com/infinityhash/assets/blob/main/ih-coin-v1.gif",
+    "name": "Infinity Hash",
+    "attributes": [
+      {
+        "trait_type": "Batch",
+        "value": "0"
+      }
+    ]
+}
