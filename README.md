@@ -1,4 +1,4 @@
-# Infinity Hash Assets
+# Infinity Hash Brand Assets
 
 This is the asset repository of the Infinity Hash project, including brand assets and some media files for the project itself, as well as for IHS and the xIHS token.
 
